@@ -10,8 +10,8 @@ Nyisd meg a command line-t majd navigálj abba a mappába.
 ## Használat
 
 1. Program kompilálása és futtatása
-  1.1 C:/valami/eleresi/ut/a/mappahoz> asm_runner.bat L1b_05_abim1234 
-  1.2 Ahol az L1b_05_abim1234 az aktuálisan lekompilálni akart .asm kiterjesztésű file neve, azaz L1b_05_abim1234.asm .
+  - C:/valami/eleresi/ut/a/mappahoz> asm_runner.bat L1b_05_abim1234 
+  - Ahol az L1b_05_abim1234 az aktuálisan lekompilálni akart .asm kiterjesztésű file neve, azaz L1b_05_abim1234.asm .
   
 2. Program kompilálása, futtatása és tesztelése
   1.1 C:/valami/eleresi/ut/a/mappahoz> asm_runner.bat L1b_05_abim1234 L1b_5
