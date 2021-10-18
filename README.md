@@ -3,7 +3,10 @@
 ## Installáció
 
 Töltsd le a asm_runner.bat filet, majd helyezd az actest-el és a nasm-al egy mappába.
+<br>
 <img src="cmd_open.png" width="500"/>
+<br>
+<br>
 Nyisd meg a command line-t majd navigálj abba a mappába.
 
 
